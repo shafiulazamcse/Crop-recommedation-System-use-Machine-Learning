@@ -1,5 +1,7 @@
 ****Crop Recommedation System****
+
 ![image](https://github.com/user-attachments/assets/662dde23-6c21-4626-8f7f-50166a7f9ab5)
+
 In the code **app.py** Click the terminal and go to command prompt and then type **python app.py**
 ![image](https://github.com/user-attachments/assets/7accfc14-db84-4c40-95f6-95125ebb4072)
 ![image](https://github.com/user-attachments/assets/50ec1ec7-6476-4e11-a4ce-146f43a4957d)
