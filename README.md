@@ -26,7 +26,7 @@ This our **Crop Recommedation System using ML**
 ![image](https://github.com/user-attachments/assets/22d526e1-1fde-4ca1-a283-e53da5e184ab)
 ![image](https://github.com/user-attachments/assets/758fc2e7-8362-4f4c-8d28-997e86371598)
 
-
+**I am woking on this project, and try to implement new features.**
 
 
 to contact with me for source code
