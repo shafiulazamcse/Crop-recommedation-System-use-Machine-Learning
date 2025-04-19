@@ -25,3 +25,26 @@ This our **Crop Recommedation System using ML**
 ![image](https://github.com/user-attachments/assets/f7509282-e3c2-4d33-848e-facbd997b8b3)
 ![image](https://github.com/user-attachments/assets/22d526e1-1fde-4ca1-a283-e53da5e184ab)
 ![image](https://github.com/user-attachments/assets/758fc2e7-8362-4f4c-8d28-997e86371598)
+
+
+
+to contact with me for source code
+Links:
+
+Fiverr
+https://fiverr.com/shafiulazamcse
+
+Facebook
+https://facebook.com/shafiulazamcse
+
+Instagram
+https://instagram.com/shafiulazamcse
+
+LinkedIn
+https://linkedin.com/in/shafiulazamcse
+
+X
+https://x.com/shafiulazamcse
+
+Threads
+https://threads.net/@shafiulazamcse
