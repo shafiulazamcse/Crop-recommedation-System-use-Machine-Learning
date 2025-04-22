@@ -1,4 +1,4 @@
-**Crop Recommedation System**
+io**Crop Recommedation System**
 
 ![image](https://github.com/user-attachments/assets/662dde23-6c21-4626-8f7f-50166a7f9ab5)
 
@@ -29,23 +29,14 @@ This our **Crop Recommedation System using ML**
 **I am woking on this project, and try to implement new features.**
 
 
-to contact with me for source code
-Links:
+# To contact with me for source code:
 
-Fiverr
-https://fiverr.com/shafiulazamcse
-
-Facebook
-https://facebook.com/shafiulazamcse
-
-Instagram
-https://instagram.com/shafiulazamcse
-
-LinkedIn
-https://linkedin.com/in/shafiulazamcse
-
-X
-https://x.com/shafiulazamcse
-
-Threads
-https://threads.net/@shafiulazamcse
+🛠️ **[Fiverr](https://fiverr.com/shafiulazamcse)**
+- 👤 **[Facebook](https://facebook.com/shafiulazamcse)**
+- 📷 **[Instagram](https://instagram.com/shafiulazamcse)**
+- 💼 **[LinkedIn](https://linkedin.com/in/shafiulazamcse)**
+- 🐦 **[X (formerly Twitter)](https://x.com/shafiulazamcse)**
+- 🧵 **[Threads](https://threads.net/@shafiulazamcse)**
+- 📌 **[Pinterest](https://www.pinterest.com/shafiulazamcse/)**
+- ▶️ **[YouTube](https://www.youtube.com/@shafiulazamcse)**
+- 💬 **[WhatsApp](https://wa.me/8801518431620)** (+8801518431620)
