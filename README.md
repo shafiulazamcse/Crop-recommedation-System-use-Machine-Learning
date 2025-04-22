@@ -1,4 +1,4 @@
-zio**Crop Recommedation System**
+# Crop Recommedation System
 
 ![image](https://github.com/user-attachments/assets/662dde23-6c21-4626-8f7f-50166a7f9ab5)
 
