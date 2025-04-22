@@ -1,4 +1,4 @@
-io**Crop Recommedation System**
+zio**Crop Recommedation System**
 
 ![image](https://github.com/user-attachments/assets/662dde23-6c21-4626-8f7f-50166a7f9ab5)
 
@@ -35,7 +35,7 @@ This our **Crop Recommedation System using ML**
 - 👤 **[Facebook](https://facebook.com/shafiulazamcse)**
 - 📷 **[Instagram](https://instagram.com/shafiulazamcse)**
 - 💼 **[LinkedIn](https://linkedin.com/in/shafiulazamcse)**
-- 🐦 **[X (formerly Twitter)](https://x.com/shafiulazamcse)**
+- 🐦 **[X (Twitter)](https://x.com/shafiulazamcse)**
 - 🧵 **[Threads](https://threads.net/@shafiulazamcse)**
 - 📌 **[Pinterest](https://www.pinterest.com/shafiulazamcse/)**
 - ▶️ **[YouTube](https://www.youtube.com/@shafiulazamcse)**
